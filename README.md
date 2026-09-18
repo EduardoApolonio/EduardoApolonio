@@ -20,10 +20,6 @@ Sou estudante de Ciência da Computação na Unifil, com interesse na área de *
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
-## Projetos em destaque:
-
-- 🌊 **[Ocean Cleaners](https://github.com/EduardoApolonio/Oceancleaner)** — Jogo em desenvolvimento na Godot Engine, em equipe. Responsável pela implementação de áudio (efeitos sonoros e trilha).
-- 💼 **[Portfólio Pessoal](https://github.com/EduardoApolonio/Portifolio)** — Site pessoal desenvolvido do zero para apresentar minha trajetória, habilidades e projetos.
 
 ## Minhas Estatísticas:
  
