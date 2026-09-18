@@ -26,13 +26,14 @@ Sou estudante de Ciência da Computação na Unifil, com interesse na área de *
 - 💼 **[Portfólio Pessoal](https://github.com/EduardoApolonio/Portifolio)** — Site pessoal desenvolvido do zero para apresentar minha trajetória, habilidades e projetos.
 
 ## Minhas Estatísticas:
-
+ 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoApolonio&show_icons=true&theme=radical)
-
+ 
 ## Linguagens mais utilizadas:
-
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoApolonio&layout=compact&theme=radical)
-
+ 
 ## Estatísticas de sequência mais longa:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduardoApolonio&theme=radical)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=EduardoApolonio&theme=radical)
+ 
