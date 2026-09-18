@@ -2,7 +2,7 @@
 
 ## Quem sou eu:
 
-Sou estudante de Ciência da Computação (4º semestre) na Unifil, com interesse na área de **Banco de Dados** e curiosidade por **Cibersegurança**. Tenho experiência prática com exportação e organização de dados em ambiente de startup, além de vivência administrativa em processos de controladoria. Estou em busca de oportunidades de estágio para aprofundar meus conhecimentos técnicos e contribuir com projetos reais na área de tecnologia.
+Sou estudante de Ciência da Computação na Unifil, com interesse na área de **Banco de Dados** e curiosidade por **Cibersegurança**. Tenho experiência prática com exportação e organização de dados em ambiente de startup.
 
 ## Socials:
 
