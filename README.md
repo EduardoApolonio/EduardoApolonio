@@ -23,7 +23,6 @@ Sou estudante de Ciência da Computação na Unifil, com interesse na área de *
 ## Projetos em destaque:
 
 - 🌊 **[Ocean Cleaners](https://github.com/EduardoApolonio/Oceancleaner)** — Jogo em desenvolvimento na Godot Engine, em equipe. Responsável pela implementação de áudio (efeitos sonoros e trilha).
-- 🤖 **[SolveTech AI](https://github.com/novaes11/SolveTechAi)** — Projeto colaborativo em equipe, com foco em interface mobile first.
 - 💼 **[Portfólio Pessoal](https://github.com/EduardoApolonio/Portifolio)** — Site pessoal desenvolvido do zero para apresentar minha trajetória, habilidades e projetos.
 
 ## Minhas Estatísticas:
