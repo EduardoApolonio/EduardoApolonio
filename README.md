@@ -1,9 +1,39 @@
-<h1>Minhas Estatisticas</h1>
+# Olá, eu sou o Eduardo 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoApolonio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+## Quem sou eu:
 
-<h1>Linguagens mais utilizadas</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoApolonio&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+Sou estudante de Ciência da Computação (4º semestre) na Unifil, com interesse na área de **Banco de Dados** e curiosidade por **Cibersegurança**. Tenho experiência prática com exportação e organização de dados em ambiente de startup, além de vivência administrativa em processos de controladoria. Estou em busca de oportunidades de estágio para aprofundar meus conhecimentos técnicos e contribuir com projetos reais na área de tecnologia.
 
-<h1>Estatísticas de sequência mais longa</h1>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoApolonio&theme=tokyonight" alt="mystreak"/>
+## Socials:
+
+[![GitHub](https://img.shields.io/badge/GitHub-EduardoApolonio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoApolonio)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eduardoapolonio.github.io/Portifolio)
+[![Email](https://img.shields.io/badge/Email-eduapolonio%40edu.unifil.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduapolonio@edu.unifil.br)
+
+## Tech Stack:
+
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+## Projetos em destaque:
+
+- 🌊 **[Ocean Cleaners](https://github.com/EduardoApolonio/Oceancleaner)** — Jogo em desenvolvimento na Godot Engine, em equipe. Responsável pela implementação de áudio (efeitos sonoros e trilha).
+- 🤖 **[SolveTech AI](https://github.com/novaes11/SolveTechAi)** — Projeto colaborativo em equipe, com foco em interface mobile first.
+- 💼 **[Portfólio Pessoal](https://github.com/EduardoApolonio/Portifolio)** — Site pessoal desenvolvido do zero para apresentar minha trajetória, habilidades e projetos.
+
+## Minhas Estatísticas:
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoApolonio&show_icons=true&theme=radical)
+
+## Linguagens mais utilizadas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoApolonio&layout=compact&theme=radical)
+
+## Estatísticas de sequência mais longa:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EduardoApolonio&theme=radical)
