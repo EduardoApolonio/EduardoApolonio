@@ -27,13 +27,12 @@ Sou estudante de Ciência da Computação na Unifil, com interesse na área de *
 
 ## Minhas Estatísticas:
  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoApolonio&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=EduardoApolonio&show_icons=true&theme=radical)
  
 ## Linguagens mais utilizadas:
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoApolonio&layout=compact&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=EduardoApolonio&layout=compact&theme=radical)
  
 ## Estatísticas de sequência mais longa:
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=EduardoApolonio&theme=radical)
- 
